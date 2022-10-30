@@ -1,0 +1,22 @@
+.chess-table{
+  background-color: yellow;
+}
+
+.dark-square {
+  background-color: rgb(193, 106, 55);
+  height: 70px;
+}
+.light-square {
+  background-color: rgb(239, 203, 161);
+  height: 70px;
+}
+tr, td{
+  border: 1px black solid;  
+  text-align: center;
+}
+.piece{
+  height: 50px;
+}
+.teste{
+  height: 70px;
+}
